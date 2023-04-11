@@ -1,0 +1,11 @@
+NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_SECRET= # Linux: `openssl rand -hex 32` or go to https://generate-secret.now.sh/32
+
+DISCORD_CLIENT_ID=1095135037915136080
+DISCORD_CLIENT_SECRET=cOrfklCqmR4T5Mctrgs2dTw7BJ8KoPQL
+
+DATABASE_URL=sqlite://localhost/:memory:?synchronize=true
+
+NEXT_PUBLIC_SUPABASE_URL=https://bhhnbnxtkcbzukjobjgk.supabase.co
+SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJoaG5ibnh0a2NienVram9iamdrIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY4MTE4MTU1NCwiZXhwIjoxOTk2NzU3NTU0fQ.LUP_ajrY9Y2uBeCOiBu9KG124jor54nNdqM2KNARw2M
+SUPABASE_JWT_SECRET='59UisBE4KEDjSgQ8bsv1ZLasoNRHuQWh6nutEvd32XFfIp85TvEkq0rexRFp3twls6AaCSJAmZSYJMAK7FTHSQ=='
